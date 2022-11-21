@@ -1,2 +1,2 @@
-# Spark-Foundation-Internship
-This repository contains the tasks that I completed while working as an intern for The Sparks Foundation. Internship Category - IOT and Computer Vision 
+# Color-Identification-using-Machine-Learning
+This project uses Machine Learning to extract a set number of colors from an image.
